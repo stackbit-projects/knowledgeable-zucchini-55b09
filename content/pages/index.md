@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: aalieni.space 404
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: 'beware of places, hidden.'
     actions:
       - label: Contact Me
         url: /contact
